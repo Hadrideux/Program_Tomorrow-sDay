@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/Test/MapA.umap",
+				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Widget/WidgetComponent/WBP_Password.uasset",
+				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/Test/MapB.umap",
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/MainMenu/L_MainMenu.umap",
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/JamesSteelDesk/L_JamesSteelDesk.umap",
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/JamesSteelDesk/L_Penthouse.umap",
