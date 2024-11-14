@@ -9,6 +9,22 @@
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/JamesSteelDesk/L_JamesSteelDesk.umap",
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/JamesSteelDesk/L_Penthouse.umap",
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/Penthouse/L_Penthouse.umap",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/DevMap/L_Dev.umap",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Global/Manager/BP_SceneManager.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Global/BP_TomorrowsDay_GM.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Global/BP_TomorrwsDay_PC.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Character/Input/Action/Debug/IA_CompletInvestigation.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Character/Input/Action/Debug/IA_EndGame.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Character/Input/Action/Debug/IA_RestartGame.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Character/BP_CharacterController.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Character/Input/IMC_Camera.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Character/Input/IMC_Debug.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Global/Manager/BP_CameraActorManager.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Widget_ProtoDev/WBP_CameraInterface_Tempo.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Camera/Component/AC_CameraFilter.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Camera/Component/AC_UVFilter.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Camera/Component/AC_ThermalFilter.uasset",
+				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Camera/Component/AC_AudioFilter.uasset",
 				"F:/Game Design Perso/Unreal Engine/Projet/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Global/BFL.uasset"
 			]
 		}
