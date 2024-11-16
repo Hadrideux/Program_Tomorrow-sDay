@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.ini
+ProgramTomorrowsDay/Content/Maps/DevMap/L_Dev.umap
+ProgramTomorrowsDay/Content/Widget_ProtoDev/WBP_CameraInterface_Tempo.uasset
+*.ini
+*.log
