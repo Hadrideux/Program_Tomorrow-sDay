@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Epic Games (Jeux)/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
+				"E:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Widget/Menu/WBP_MainMenu.uasset",
+				"E:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Maps/MainMenu/L_MainMenu.umap",
+				"E:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Widget/Subtitles/WBP_SubtitlesTest.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Widget/WidgetComponent/WBP_Password.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Widget/Menu/WBP_Menu.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Asset/Texture/Interface/Menu/T_Quit.uasset",
@@ -35,7 +39,6 @@
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Blueprint/Office/BP_DeskManager.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Asset/SoundDesign/Classes/SCM_MainVolume.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Asset/SoundDesign/Classes/SC_Voices.uasset",
-				"D:/Epic Games (Jeux)/UE_5.3/Engine/Content/MapTemplates/Materials/BasicAsset03.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Asset/SoundDesign/Classes/SC_Interfaces.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Asset/SoundDesign/Classes/SC_SFX.uasset",
 				"D:/GitHub/Programme_Tomorrow-sDay/ProgramTomorrowsDay/Content/Asset/SoundDesign/SFX/Soothing_Sounds.uasset",
